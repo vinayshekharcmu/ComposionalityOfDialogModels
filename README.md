@@ -19,6 +19,22 @@ This runs all evaluations indicated in run_multiple_ids.sh using a saved model. 
 
 ## Citation
 ```
+@inproceedings{kumar-etal-2022-empirical,
+    title = "An Empirical study to understand the Compositional Prowess of Neural Dialog Models",
+    author = "Kumar, Vinayshekhar  and
+      Kumar, Vaibhav  and
+      Bhutani, Mukul  and
+      Rudnicky, Alexander",
+    booktitle = "Proceedings of the Third Workshop on Insights from Negative Results in NLP",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.insights-1.21",
+    pages = "154--158",
+    abstract = "In this work, we examine the problems associated with neural dialog models under the common theme of compositionality. Specifically, we investigate three manifestations of compositionality: (1) Productivity, (2) Substitutivity, and (3) Systematicity. These manifestations shed light on the generalization, syntactic robustness, and semantic capabilities of neural dialog models. We design probing experiments by perturbing the training data to study the above phenomenon. We make informative observations based on automated metrics and hope that this work increases research interest in understanding the capacity of these models.",
+}
+
 ```
 
 ## Questions?
